@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hey there, I'm Elnaz!
 
-<!--
-**elnazshzi/elnazshzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **Data Analyst** | Turning data into insights | Python & SQL enthusiast
 
-Here are some ideas to get you started:
+## 🌟 What I Do
+- Dive into data to find trends
+- Build predictive models
+- Create eye-catching dashboards
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+- **Languages**: Python, SQL
+- **Tools**: Tableau, Jupyter
+
+## 🚀 Currently Learning
+- Advanced machine learning techniques
+
+## 🌐 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/elnaz-sh-3359b01b9/)
