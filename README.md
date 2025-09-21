@@ -9,4 +9,4 @@
 
 ## 💻 Tech Stack
 - **Languages**: Python, SQL
-- **Tools**: Tableau, Jupyter
+- **Tools**: Tableau, Power BI, SSAS, SSIS, Jupyter,Pycharm
