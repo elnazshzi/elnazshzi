@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Elnaz!
+# 👋 Hey there, I'm Ellie!
 
 📊 **Data Analyst** | Turning data into insights | Python & SQL enthusiast
 
@@ -9,4 +9,4 @@
 
 ## 💻 Tech Stack
 - **Languages**: Python, SQL
-- **Tools**: Tableau, Power BI, SSAS, SSIS, Jupyter,Pycharm
+- **Tools**: Tableau, Power BI, SSAS, SSIS, SSMS, Jupyter,Pycharm
